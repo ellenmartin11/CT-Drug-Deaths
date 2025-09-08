@@ -1,0 +1,31 @@
+,Date,Date Type,Age,Sex,Race,Ethnicity,Residence City,Residence County,Residence State,Injury City,Injury County,Injury State,Injury Place,Description of Injury,Death City,Death County,Death State,Location,Location if Other,Cause of Death,Manner of Death,Other Significant Conditions ,Heroin,Heroin death certificate (DC),Cocaine,Fentanyl,Fentanyl Analogue,Oxycodone,Oxymorphone,Ethanol,Hydrocodone,Benzodiazepine,Methadone,Meth/Amphetamine,Amphet,Tramad,Hydromorphone,Morphine (Not Heroin),Xylazine,Gabapentin,Opiate NOS,Heroin/Morph/Codeine,Other Opioid,Any Opioid,Other,ResidenceCityGeo,InjuryCityGeo,DeathCityGeo,Age_Range,InjuryCity,DeathCity,Location_Cleaned
+0,2023-01-02,Date of death,65.0,Male,White,Not Hispanic/Latino,BRIDGEPORT,FAIRFIELD,CT,BRIDGEPORT,FAIRFIELD,,Other,Substance use,,,,,,Acute Intoxication by the Combined Effects of Fentanyl and Cocaine,Accident,,,,1.0,1,,,,,,,,,,,,,,,,,,1.0,,"BRIDGEPORT, CT
+(41.179195, -73.189476)","(41.179195, -73.189476)",,56-65,BRIDGEPORT,,Unspecified
+1,2023-01-18,Date of death,42.0,Male,White,Not Hispanic/Latino,WATERBURY,NEW HAVEN,CT,FARMINGTON,HARTFORD,CT,Home,Ethanol and Fentanyl Use,,,,,,Combined Effects of Fentanyl and Ethanol Toxicity,Accident,,,,,1,,,,1,,,,,,,,,,,,,,1.0,,"WATERBURY, CT
+(41.5542609, -73.0430692)","(41.726536, -72.8250564)",,36-45,FARMINGTON,,Unspecified
+2,2022-01-26,Date of death,34.0,Male,White,,BROOKFIELD,FAIRFIELD,CT,BROOKFIELD,FAIRFIELD,CT,Home,Substance Abuse,,,,Decedent’s Home,,"Acute Intoxication due to the Combined Effects of Fentanyl, Heroin, Xylazine and Clonazepam",Accident,,1.0,,,1,,,,,,1.0,,,,,,,1,,,1,,1.0,,"BROOKFIELD, CT
+(41.46736000000004, -73.39825999999994)","(41.46736000000004, -73.39825999999994)",,26-35,BROOKFIELD,,Other Residence
+3,2023-02-04,Date of death,34.0,Male,White,,,,,NEW HAVEN,NEW HAVEN,CT,Other,Substance Use,,,,,,Acute Fentanyl Intoxication with Recent Cocaine Use,Accident,,,,1.0,1,,,,,,,,,,,,,,,,,,1.0,,"CT
+(41.57350273, -72.738305908)","(41.3082517, -72.9241605)",,26-35,NEW HAVEN,,Unspecified
+4,2022-02-18,Date of death,43.0,Male,White,,NORWICH,NEW LONDON,CT,NORWICH,NEW LONDON,CT,Public Recreation Area,Drug Use,,,,Mohegan Park,Mohegan Park,Acute Cocaine and Fentanyl Intoxication,Accident,,,,1.0,1,,,,,,,,,,,,,,,,,,1.0,,"NORWICH, CT
+(41.526760000000024, -72.07567999999998)","(41.526760000000024, -72.07567999999998)",,36-45,NORWICH,,Public Space
+5,2022-02-18,Date of death,38.0,Male,White,,WATERBURY,NEW HAVEN,CT,WATERBURY,NEW HAVEN,CT,Home,Drug use,,,,Hospital - ER/Outpatient,,"Acute Intoxication Combined Effects of Ethanol, Cocaine, and Heroin",Accident,,1.0,,1.0,,,,,1,,,,,,,,,,,,1,,1.0,,"WATERBURY, CT
+(41.55490000000003, -73.04646999999994)","(41.55490000000003, -73.04646999999994)",,36-45,WATERBURY,,Hospital
+6,2023-02-22,Date of death,27.0,Male,White,,CHAPLIN,WINDHAM,CT,CHAPLIN,WINDHAM,CT,Home,Substance Use,,,,,,Acute Intoxication by the Combined Effects of Xylazine and Fentanyl,Accident,,,,,1,,,,,,,,,,,,,1,,,,,1.0,,"CHAPLIN, CT
+(41.797715, -72.129312)","(41.797715, -72.129312)",,26-35,CHAPLIN,,Unspecified
+7,2022-03-01,Date of death,24.0,Male,White,,HARTFORD,HARTFORD,CT,HARTFORD,HARTFORD,CT,Home,Drug Use,,,,Decedent’s Home,,Acute Fentanyl Intoxication,Accident,,,,,1,,,,,,,,,,,,,,,,,,1.0,,"HARTFORD, CT
+(41.76376000000005, -72.67397999999997)","(41.76376000000005, -72.67397999999997)",,19-25,HARTFORD,,Other Residence
+8,2023-03-06,Date of death,77.0,Male,White,,BRISTOL,HARTFORD,CT,BRISTOL,HARTFORD,CT,Home,Substance Use,,,,,,Complications of Hepatocellular Carcinoma,Accident,Acute Fentanyl Intoxication,,,,1,,,,,,,,,,,,,,,,,,1.0,,"BRISTOL, CT
+(41.673037, -72.945791)","(41.673037, -72.945791)",,66+,BRISTOL,,Unspecified
+9,2022-04-16,Date of death,24.0,Male,White,,BOZRAH,NEW LONDON,CT,BOZRAH,NEW LONDON,CT,Home,Substance abuse,,,,Decedent’s Home,,"Acute Intoxication by the Combined Effects of Fentanyl, Cocaine, and Ethanol",Accident,,,,1.0,1,,,,1,,,,,,,,,,,,,,1.0,,"BOZRAH, CT
+(41.56752000000006, -72.15060999999997)","(41.56752000000006, -72.15060999999997)",,19-25,BOZRAH,,Other Residence
+10,2022-04-28,Date of death,31.0,Male,White,,EAST HAVEN,NEW HAVEN,CT,EAST HAVEN,NEW HAVEN,CT,Home,Substance abuse,,,,Hospital - Inpatient,,Acute Fentanyl Intoxication,Accident,,,,,1,,,,,,,,,,,,,,,,,,1.0,,"EAST HAVEN, CT
+(41.27789000000007, -72.87168999999994)","(41.27789000000007, -72.87168999999994)",,26-35,EAST HAVEN,,Hospital
+11,2023-05-24,Date of death,55.0,Male,White,,PLYMOUTH,LITCHFIELD,CT,PLYMOUTH,LITCHFIELD,CT,Home,Substance use,,,,,,Acute Fentanyl Intoxication,Accident,,,,,1,,,,,,,,,,,,,,,,,,1.0,,"PLYMOUTH, CT
+(41.6719453, -73.0529689)","(41.6719453, -73.0529689)",,46-55,PLYMOUTH,,Unspecified
+12,2023-07-06,Date of death,53.0,Male,White,Other Hispanic/Latino,NEW HAVEN,NEW HAVEN,CT,NEW HAVEN,NEW HAVEN,CT,Other,Substance use,,,,,,Acute Fentanyl Intoxication,Accident,,,,,1,,,,,,,,,,,,,,,,,,1.0,,"NEW HAVEN, CT
+(41.3082517, -72.9241605)","(41.3082517, -72.9241605)",,46-55,NEW HAVEN,,Unspecified
+13,2023-07-11,Date of death,55.0,Male,,,,,,BRIDGEPORT,FAIRFIELD,CT,Street/Highway,Substance use,,,,,,Cocaine Toxicity,Accident,,,,1.0,,,,,,,,,,,,,,,,,,,0.0,,"CT
+(41.57350273, -72.738305908)","(41.179195, -73.189476)",,46-55,BRIDGEPORT,,Unspecified
+14,2023-07-13,Date of death,28.0,Female,White,,BRISTOL,HARTFORD,CT,HARTFORD,HARTFORD,CT,Other,Used Drugs,,,,,,Complications of Acute Mixed Drug Intoxication Including Fentanyl and Cocaine,Accident,,,,1.0,1,,,,,,,,,,,,,,,,,,1.0,,"BRISTOL, CT
+(41.673037, -72.945791)","(41.765775, -72.673356)",,26-35,HARTFORD,,Unspecified
