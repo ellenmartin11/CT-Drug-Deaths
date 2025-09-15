@@ -39,6 +39,28 @@
 
 ![New Haven Counties](https://github.com/ellenmartin11/CT-Drug-Deaths/blob/main/ct_deaths_map.png)
 
+### Main Substances Associated with Deaths
+![Main Substances](https://github.com/ellenmartin11/CT-Drug-Deaths/blob/main/drug_counts_by_category.png)
+
+- Most drug-related deaths can be attributed to Fentanyl.
+
+### Drug-Related Deaths Across Years
+
+![Drug-Related Deaths Across Years](https://github.com/ellenmartin11/CT-Drug-Deaths/blob/main/drug_group_trends.png)
+
+- Fentanyl-related deaths begin to overtake other categories in 2017.
+
+### Polysubstance Use vs Single Drug Use
+
+![Polysubstance Deaths](https://github.com/ellenmartin11/CT-Drug-Deaths/blob/main/single_vs_multiple_drugs.png)
+
+- Most drug related deaths are a resutl of polysubtance use.
+
+### Single Drug-Associated Deaths
+
+![Single Drug Deaths](https://github.com/ellenmartin11/CT-Drug-Deaths/blob/main/single_drug_pie_chart.png)
+
+- Of deaths that are related to the use of just one substance, cocaine accounts for almost half of the amount of deaths.
+
 ## Analyses To Come:
-- specific drug-related deaths (comparing Heroin, vs Cocaine....), and comparing trends over the years (what drugs are causing more deaths)
 - looking at specific drug-use across counties to see if there is a difference
